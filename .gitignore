@@ -5,3 +5,9 @@ phpunit
 *.cache
 composer.lock
 .DS_Store
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
